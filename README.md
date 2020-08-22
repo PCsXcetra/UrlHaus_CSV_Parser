@@ -2,6 +2,9 @@
 This is a tool to extract Lines a from the Downloaded CSV file From URLHaus here 
 https://urlhaus.abuse.ch/api/
 
+You can see the Twitter thread for Screenshots.
+https://twitter.com/Ledtech3/status/1296902393414725632
+
 I use the top button under database dumps.
 
 The Intended use for this tool is to narrow down the list from the data dump by various search strings.
